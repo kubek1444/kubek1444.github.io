@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(../img/prague.jpg);
+    background-repeat: no-repeat;
+}
+
+h1{
+    position: absolute;
+    top: 10%;
+    left: 50%;
+
+    font-size: 90px;
+    color: #fff;
+    transform: translateX(-50%);
+}
+a{
+    color: #fff;
+    font-size: 50px;
+}
+
+li{
+    text-align: center;
+}
+
